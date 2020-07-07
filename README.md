@@ -1,12 +1,12 @@
 # Predictive Analytics for Business Nanodegree 
-
-- Information about the Program          -> [Link course ](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008)
-- Detailed information about the Program -> [Nanodegree Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Predictive+Analytics+for+Business+Nanodegree+Syllabus.pdf)
+- The Programme: 
      > -  Create mental models to clearly define business issues,
      > - Visualize and prepare data to improve efficacy of predictive models,
      >  - Identify and implement a variety of predictive modeling techniques
      >  - Apply predictive analytics and business intelligence to solve real-world business problems
 
+- Information about the Program          -> [Link course ](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008)
+- Detailed information about the Program -> [Nanodegree Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Predictive+Analytics+for+Business+Nanodegree+Syllabus.pdf)
 
 ### Part 1: Problem Solving with Advanced Analytics
 - In this part, I have been approached a structured framework for solving problems with advanced analytics and a range of appropriate analytical methodology based on the context of business problem. 

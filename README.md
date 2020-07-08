@@ -40,4 +40,6 @@ More details:
 - Classify the stores to each kind of formats.
 - Decide kind of ETS model or ARIMA Model, and choosing the best one to predict the sale.
      > Project: [Planning an expansion for a grocery store chain](https://github.com/lnphng/PredictiveAnalytics/blob/master/Project6_CapstoneProject/Project6_CapstoneProject.pdf)
+     
+     > [Tableau Public](https://public.tableau.com/profile/lien.phuong#!/)
 
